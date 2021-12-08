@@ -1,0 +1,5 @@
+[core]
+    remote = minio_bucket
+['remote "minio_bucket"']
+    url = s3://mlflow
+    endpointurl = http://115.115.91.60:5432
